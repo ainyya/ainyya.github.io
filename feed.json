@@ -7,6 +7,17 @@
     "home_page_url": "https://ainyya.github.io",
     "items": [
         {
+            "id": "https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/",
+            "url": "https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/",
+            "title": "数学建模系列第一课--层次分析模型",
+            "date_published": "2022-01-11T16:13:03.000Z",
+            "content_html": "<h3 id=\"基本套路\"><a class=\"anchor\" href=\"#基本套路\">#</a> 基本套路</h3>\n<p>题目中一般会出现” 确定评价指标、形成评价体系 “等关键子眼。首先要回答以下三个问题：</p>\n<p><figure class=\"highlight plaintext\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">1.我们评价的目标是什么？</span><br><span class=\"line\">2.我们为了达到这个目标有哪几种可选的方案？</span><br><span class=\"line\">3.评价的准则或者说知指标是什么？（我们根据什么东西来评价好坏）</span><br></pre></td></tr></table></figure></p>\n<p>推荐的搜索平台：</p>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9zZWFyY2guY2hvbmdidWx1by5jb20v\">虫部落 - 快搜</span>、<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuY25raS5uZXQv\">知网</span>、<span class=\"exturl\" data-url=\"aHR0cDovL3d3dy5jcXZpcC5jb20v\">维普</span>、<span class=\"exturl\" data-url=\"aHR0cHM6Ly94dWVzaHUuYmFpZHUuY29tLw==\">百度学术</span>、<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cud2FuZmFuZ2RhdGEuY29tLmNuL2luZGV4Lmh0bWw=\">万方</span></p>\n<p>判断矩阵：</p>\n<p><img data-src=\"%5CPost2_image1.png\" alt=\"两两判断\" /></p>\n<p><img data-src=\"%5CPost2_image2.png\" alt=\"评价指标\" /></p>\n<p>若矩阵中每个元素 <code>$a_&#123;ij&#125;$</code>  &gt; 0 且满足   <code>$ a_&#123;ij&#125; $</code>   x   <code>$ a_&#123;ji&#125; $</code>  = 1，则我们称该矩阵为正互反矩阵。在层次分析法中，我们构造的判断矩阵均是正互反矩阵。若正互反矩阵满足 <code>$ a_&#123;ij&#125; $</code>  x  <code>$ a_&#123;jk&#125; $</code>  =  <code>$ a_&#123;ik&#125; $</code> ，则我们称其为一致矩阵。</p>\n",
+            "tags": [
+                "数学建模",
+                "博客"
+            ]
+        },
+        {
             "id": "https://ainyya.github.io/2022/01/11/%E5%AF%92%E5%81%87%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98[2-9]/",
             "url": "https://ainyya.github.io/2022/01/11/%E5%AF%92%E5%81%87%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98[2-9]/",
             "title": "寒假每日一题",
