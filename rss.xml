@@ -36,7 +36,7 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;\alpha&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;$$ \alpha $$&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;信息启发式因子&lt;/td&gt;
 &lt;td align=&#34;center&#34;&gt;\alpha值越大，蚂蚁选择之前走过的路径可能性越大，搜索路径的随机性减弱，\alpha越小，蚁群搜索范围就会减少，容易陷入局部最优&lt;/td&gt;
 &lt;/tr&gt;
@@ -57,7 +57,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;p&gt;4.算法流程：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;../_post/%E8%9A%81%E7%BE%A4%E7%AE%97%E6%B3%95/Post3_image1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;Post3_image1.jpg&#34;&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -73,8 +73,8 @@
 &lt;p&gt;推荐的搜索平台：&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zZWFyY2guY2hvbmdidWx1by5jb20v&#34;&gt;虫部落-快搜&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25raS5uZXQv&#34;&gt;知网&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jcXZpcC5jb20v&#34;&gt;维普&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly94dWVzaHUuYmFpZHUuY29tLw==&#34;&gt;百度学术&lt;/span&gt;、&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cud2FuZmFuZ2RhdGEuY29tLmNuL2luZGV4Lmh0bWw=&#34;&gt;万方&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;判断矩阵：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;../_post/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/Post2_image1.jpg&#34; alt=&#34;两两判断&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;../_post/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/Post2_image2.jpg&#34; alt=&#34;评价指标&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;Post2_image1.jpg&#34; alt=&#34;两两判断&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;Post2_image2.jpg&#34; alt=&#34;评价指标&#34;&gt;&lt;/p&gt;
 &lt;p&gt;若矩阵中每个元素&lt;code&gt;$a_&amp;#123;ij&amp;#125;$&lt;/code&gt; &amp;gt; 0且满足  &lt;code&gt;$ a_&amp;#123;ij&amp;#125; $&lt;/code&gt;  x  &lt;code&gt;$ a_&amp;#123;ji&amp;#125; $&lt;/code&gt; = 1，则我们称该矩阵为正互反矩阵。在层次分析法中，我们构造的判断矩阵均是正互反矩阵。若正互反矩阵满足&lt;code&gt;$ a_&amp;#123;ij&amp;#125; $&lt;/code&gt; x &lt;code&gt;$ a_&amp;#123;jk&amp;#125; $&lt;/code&gt; = &lt;code&gt;$ a_&amp;#123;ik&amp;#125; $&lt;/code&gt;，则我们称其为一致矩阵。&lt;/p&gt;
  ]]></description>
         </item>
