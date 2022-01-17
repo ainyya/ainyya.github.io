@@ -54,16 +54,16 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;4. 算法流程：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;F:/blog/sinanyaBlog/source/image-20220117122013662.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../%E8%9A%81%E7%BE%A4%E7%AE%97%E6%B3%95/Post3_image1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="数学建模" scheme="https://ainyya.github.io/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/" />
         <category term="博客" scheme="https://ainyya.github.io/tags/%E5%8D%9A%E5%AE%A2/" />
         <updated>2022-01-17T03:27:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/</id>
+        <id>https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/</id>
         <title>数学建模系列第一课--层次分析模型</title>
-        <link rel="alternate" href="https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+        <link rel="alternate" href="https://ainyya.github.io/2022/01/12/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E8%AF%BE-%E5%B1%82%E6%AC%A1%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
         <content type="html">&lt;h3 id=&#34;基本套路&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本套路&#34;&gt;#&lt;/a&gt; 基本套路&lt;/h3&gt;
 &lt;p&gt;题目中一般会出现” 确定评价指标、形成评价体系 “等关键子眼。首先要回答以下三个问题：&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1.我们评价的目标是什么？&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2.我们为了达到这个目标有哪几种可选的方案？&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3.评价的准则或者说知指标是什么？（我们根据什么东西来评价好坏）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
