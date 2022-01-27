@@ -168,7 +168,7 @@
 &lt;p&gt;判断矩阵：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;Post2_image1.jpg&#34; alt=&#34;两两判断&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;Post2_image2.jpg&#34; alt=&#34;评价指标&#34;&gt;&lt;/p&gt;
-&lt;p&gt;若矩阵中每个元素 &lt;code&gt;a_&amp;#123;ij&amp;#125;&lt;/code&gt;  &amp;gt; 0 且满足   &lt;code&gt;a_&amp;#123;ij&amp;#125;&lt;/code&gt;   x   &lt;code&gt;a_&amp;#123;ji&amp;#125;&lt;/code&gt;  = 1，则我们称该矩阵为正互反矩阵。在层次分析法中，我们构造的判断矩阵均是正互反矩阵。若正互反矩阵满足 &lt;code&gt;a_&amp;#123;ij&amp;#125;&lt;/code&gt;  x  &lt;code&gt;a_&amp;#123;jk&amp;#125;&lt;/code&gt;  =  &lt;code&gt;a_&amp;#123;ik&amp;#125;&lt;/code&gt; ，则我们称其为一致矩阵。&lt;/p&gt;
+&lt;p&gt;若矩阵中每个元素 &lt;code&gt;$$ a_&amp;#123;ij&amp;#125; $$&lt;/code&gt;  &amp;gt; 0 且满足   &lt;code&gt;a_&amp;#123;ij&amp;#125;&lt;/code&gt;   x   &lt;code&gt;a_&amp;#123;ji&amp;#125;&lt;/code&gt;  = 1，则我们称该矩阵为正互反矩阵。在层次分析法中，我们构造的判断矩阵均是正互反矩阵。若正互反矩阵满足 &lt;code&gt;a_&amp;#123;ij&amp;#125;&lt;/code&gt;  x  &lt;code&gt;a_&amp;#123;jk&amp;#125;&lt;/code&gt;  =  &lt;code&gt;a_&amp;#123;ik&amp;#125;&lt;/code&gt; ，则我们称其为一致矩阵。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
